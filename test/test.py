@@ -5,7 +5,7 @@ import pandas as pd
 import random
 
 
-df=pd.read_table('BankProblem.txt', sep=':', header=None)
+df=pd.read_table('../docs/BankProblem.txt', sep=':', header=None)
 # print(df)
 #
 
