@@ -248,5 +248,4 @@ if __name__ == '__main__':
         sum_max_value.append(str(max(new_sum_value)))
         cycles_times += 1
 
-    # picture function
     draw_picture(sum_max_value)
